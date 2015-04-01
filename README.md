@@ -14,6 +14,10 @@ This is a collection of short articles about things I have learned. They are con
 
 - [Steps Within Steps](cucumber/steps-within-steps.md)
 
+### Postgres
+
+- [Terminate Database Connections](postgres/terminate_database_connections.md)
+
 ### Rails
 
 - [Parameters Filtering](rails/parameters-filtering.md)
