@@ -6,7 +6,7 @@
 
 This is a collection of short articles about things I have learned. They are concepts I want to remember that don't warrant a post on my [blog](http://worth-chicago.co/).
 
-Most of these were published first on [HR / TIL](http://til.hashrocket.com), a project I am building for [Hashrocket](http://hashrocket.com).
+Most of these were published first on [TIL / Hashrocket](http://til.hashrocket.com), a project I am building for [Hashrocket](http://hashrocket.com).
 
 ### Bash
 
