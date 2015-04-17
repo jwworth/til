@@ -30,6 +30,10 @@ Most of these were published first on [TIL / Hashrocket](http://til.hashrocket.c
 
 - [Parameters Filtering](rails/parameters-filtering.md)
 
+### Rubygems
+
+- [Upgrade Rubygems](rubygems/upgrade-rubygems.md)
+
 ### About
 
 I borrowed this idea from
