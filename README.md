@@ -34,6 +34,10 @@ Most of these were published first on [TIL / Hashrocket](http://til.hashrocket.c
 
 - [Upgrade Rubygems](rubygems/upgrade-rubygems.md)
 
+### Vim
+
+- [Delete Comments](vim/delete-comments.md)
+
 ### About
 
 I borrowed this idea from
