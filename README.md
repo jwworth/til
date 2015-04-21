@@ -17,6 +17,9 @@ Most of these were published first on [TIL / Hashrocket](http://til.hashrocket.c
 
 - [Steps Within Steps](cucumber/steps-within-steps.md)
 
+### Git
+
+- [Undo a Git Mistake](git/undo-a-git-mistake.md)
 
 ### Less
 
