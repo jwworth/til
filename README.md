@@ -31,6 +31,7 @@ Most of these were published first on [TIL / Hashrocket](http://til.hashrocket.c
 
 ### Rails
 
+- [Modify Attribute on Set](rails/modify-attribute-on-set.md)
 - [Parameters Filtering](rails/parameters-filtering.md)
 
 ### Rubygems
