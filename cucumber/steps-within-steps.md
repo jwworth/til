@@ -4,7 +4,7 @@ Cucumber step definitions are useful for explaining in detail the actions a user
 
 One solution is calling several steps from within another step:
 
-```
+```ruby
 Given 'I am a signed in developer' do
   steps %Q{
     Given I am a developer with credentials

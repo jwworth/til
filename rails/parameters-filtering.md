@@ -6,7 +6,7 @@ A few examples are authentication credentials, personal data, and financial info
 
 To prevent Rails from logging such data, add this to your application configuration:
 
-```
+```ruby
 config.filter_parameters << :sensitive_param
 ```
 
