@@ -41,6 +41,7 @@ Most of these were published first on [TIL / Hashrocket](http://til.hashrocket.c
 ### Vim
 
 - [Delete Comments](vim/delete-comments.md)
+- [Sort Alphabetically](vim/sort-alphabetically.md)
 
 ### About
 
