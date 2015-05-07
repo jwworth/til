@@ -39,6 +39,7 @@ This is a collection of short articles about things I have learned. They are con
 ### Vim
 
 - [Delete Comments](vim/delete-comments.md)
+- [Close a File](vim/close-a-file.md)
 - [Sort Alphabetically](vim/sort-alphabetically.md)
 
 ### About
