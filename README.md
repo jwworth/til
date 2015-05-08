@@ -17,6 +17,7 @@ This is a collection of short articles about things I have learned. They are con
 
 ### Git
 
+- [Git Snapshot](git/git-snapshot.md)
 - [Undo a Git Mistake](git/undo-a-git-mistake.md)
 
 ### Less
