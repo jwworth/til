@@ -9,6 +9,7 @@ This is a collection of short articles about things I have learned. They are con
 ### Bash
 
 - [Run Previous Command](bash/run-previous-command.md)
+- [Send Processes to the Background](bash/send-processes-to-the-background.md)
 - [Standard Output to Clipboard Buffer](bash/standard-output-to-clipboard-buffer.md)
 
 ### Cucumber
