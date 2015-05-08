@@ -30,6 +30,7 @@ This is a collection of short articles about things I have learned. They are con
 
 ### Rails
 
+- [Bypass Basic Auth](rails/bypass-basic-auth.md)
 - [Modify Attribute on Set](rails/modify-attribute-on-set.md)
 - [Parameters Filtering](rails/parameters-filtering.md)
 
