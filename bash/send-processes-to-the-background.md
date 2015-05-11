@@ -1,6 +1,6 @@
 # Send Processes to the Background
 
-Processes on any POSIX-compliant computer can be sent to the background with `CTRL-z` (`CTRL-z z` for the tmux-ers) and returned to the foreground with `fg`.
+Processes on any POSIX-compliant computer can be sent to the background with `CTRL-Z` (`<prefix> + Z` for the tmux-ers) and returned to the foreground with `fg`.
 
 Here is an example:
 
