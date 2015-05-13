@@ -21,6 +21,10 @@ This is a collection of short articles about things I have learned. They are con
 - [Git Snapshot](git/git-snapshot.md)
 - [Undo a Git Mistake](git/undo-a-git-mistake.md)
 
+### HTML
+
+- [Date Input Tag](html/date-input-tag.md)
+
 ### Less
 
 - [Less Help](less/less-help.md)
@@ -35,6 +39,8 @@ This is a collection of short articles about things I have learned. They are con
 - [Modify Attribute on Set](rails/modify-attribute-on-set.md)
 - [Parameters Filtering](rails/parameters-filtering.md)
 - [Redirect a Path](rails/redirect-a-path.md)
+- [Set Default URL Options](rails/set-default-url-options.md)
+- [Validate with Proc](rails/validate-with-proc.md)
 
 ### Rubygems
 
