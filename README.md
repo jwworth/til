@@ -42,6 +42,10 @@ This is a collection of short articles about things I have learned. They are con
 - [Set Default URL Options](rails/set-default-url-options.md)
 - [Validate with Proc](rails/validate-with-proc.md)
 
+### Ruby
+
+- [Case Insensitive Matchers](ruby/case-insensitive-matchers.md)
+
 ### Rubygems
 
 - [Upgrade Rubygems](rubygems/upgrade-rubygems.md)
