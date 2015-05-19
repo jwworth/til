@@ -45,6 +45,7 @@ This is a collection of short articles about things I have learned. They are con
 ### Ruby
 
 - [Case Insensitive Matchers](ruby/case-insensitive-matchers.md)
+- [Minmax](ruby/minmax.md)
 
 ### Rubygems
 
