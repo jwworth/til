@@ -59,6 +59,7 @@ This is a collection of short articles about things I have learned. They are con
 - [Close a File](vim/close-a-file.md)
 - [Current Value of a Setting](vim/current-value-of-a-setting.md)
 - [Delete Comments](vim/delete-comments.md)
+- [Find and Replace Across Files](vim/find-and-replace-across-files.md)
 - [Jump to the First Non-Blank Character](vim/jump-to-the-first-non-blank-character.md)
 - [Sort Alphabetically](vim/sort-alphabetically.md)
 
