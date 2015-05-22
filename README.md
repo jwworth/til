@@ -33,6 +33,7 @@ This is a collection of short articles about things I have learned. They are con
 
 ### Postgres
 
+- [Prepare / Execute](postgres/prepare-execute.md)
 - [Terminate Database Connections](postgres/terminate_database_connections.md)
 
 ### Rails
