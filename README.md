@@ -10,6 +10,7 @@ This is a collection of short articles about things I have learned. They are con
 
 - [Directional Commands](bash/directional-commands.md)
 - [MD5 File Signatures](bash/md5-file-signatures.md)
+- [Reverse a String](bash/reverse-a-string.md)
 - [Run Previous Command](bash/run-previous-command.md)
 - [Send Processes to the Background](bash/send-processes-to-the-background.md)
 - [Standard Output to Clipboard Buffer](bash/standard-output-to-clipboard-buffer.md)
