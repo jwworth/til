@@ -50,6 +50,7 @@ This is a collection of short articles about things I have learned. They are con
 
 - [Case Insensitive Matchers](ruby/case-insensitive-matchers.md)
 - [Minmax](ruby/minmax.md)
+- [Puts Multiple Lines](ruby/puts-multiple-lines.md)
 - [Truthy Strings](ruby/truthy-strings.md)
 
 ### Rubygems
