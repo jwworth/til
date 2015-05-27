@@ -41,6 +41,7 @@ This is a collection of short articles about things I have learned. They are con
 
 - [Bypass Basic Auth](rails/bypass-basic-auth.md)
 - [Modify Attribute on Set](rails/modify-attribute-on-set.md)
+- [Multipurpose Environmental Variables](rails/multipurpose-environmental-variables.md)
 - [Parameters Filtering](rails/parameters-filtering.md)
 - [Redirect a Path](rails/redirect-a-path.md)
 - [Set Default URL Options](rails/set-default-url-options.md)
