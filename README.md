@@ -6,6 +6,8 @@
 
 This is a collection of short articles about things I have learned. They are concepts I want to remember that don't warrant a post on my [blog](http://worth-chicago.co/).
 
+Most of these were published first on [Today I Learned](http://til.hashrocket.com), a project for [Hashrocket](http://hashrocket.com).
+
 ### Bash
 
 - [Directional Commands](bash/directional-commands.md)
