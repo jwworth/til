@@ -66,6 +66,7 @@ Most of these were published first on [Today I Learned](http://til.hashrocket.co
 - [Close a File](vim/close-a-file.md)
 - [Current Value of a Setting](vim/current-value-of-a-setting.md)
 - [Delete Comments](vim/delete-comments.md)
+- [Edit the Current File Always](vim/edit-the-current-file-always.md)
 - [Find and Replace Across Files](vim/find-and-replace-across-files.md)
 - [Jump to the First Non-Blank Character](vim/jump-to-the-first-non-blank-character.md)
 - [Sort Alphabetically](vim/sort-alphabetically.md)
