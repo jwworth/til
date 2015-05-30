@@ -43,6 +43,7 @@ Most of these were published first on [Today I Learned](http://til.hashrocket.co
 
 - [Bypass Basic Auth](rails/bypass-basic-auth.md)
 - [Change Column Null](rails/change-column-null.md)
+- [Find or Create By With Block](rails/find-or-create-by-with-block.md)
 - [Modify Attribute on Set](rails/modify-attribute-on-set.md)
 - [Multipurpose Environmental Variables](rails/multipurpose-environmental-variables.md)
 - [Parameters Filtering](rails/parameters-filtering.md)
