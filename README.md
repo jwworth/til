@@ -57,6 +57,7 @@ Most of these were published first on [Today I Learned](http://til.hashrocket.co
 - [Case Insensitive Matchers](ruby/case-insensitive-matchers.md)
 - [Minmax](ruby/minmax.md)
 - [Puts Multiple Lines](ruby/puts-multiple-lines.md)
+- [Skid Keywords](ruby/skid-keywords.md)
 - [Truthy Strings](ruby/truthy-strings.md)
 
 ### Rubygems
