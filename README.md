@@ -12,6 +12,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 
 - [Directional Commands](bash/directional-commands.md)
 - [MD5 File Signatures](bash/md5-file-signatures.md)
+- [Printing with lpr](bash/printing-with-lpr.md)
 - [Reverse a String](bash/reverse-a-string.md)
 - [Run Previous Command](bash/run-previous-command.md)
 - [Send Processes to the Background](bash/send-processes-to-the-background.md)
