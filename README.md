@@ -54,6 +54,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 - [Keyword Precedence](ruby/keyword-precedence.md)
 - [Minmax](ruby/minmax.md)
 - [Puts Multiple Lines](ruby/puts-multiple-lines.md)
+- [Ruby Regex Literal](ruby/ruby-regex-literal.md)
 - [Skid Keywords](ruby/skid-keywords.md)
 - [Truthy Strings](ruby/truthy-strings.md)
 
