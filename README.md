@@ -27,6 +27,10 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 - [Git Snapshot](git/git-snapshot.md)
 - [Undo a Git Mistake](git/undo-a-git-mistake.md)
 
+### Go
+
+- [Go iota](go/go-iota.md)
+
 ### HTML
 
 - [Date Input Tag](html/date-input-tag.md)
