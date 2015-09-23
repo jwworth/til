@@ -68,6 +68,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 
 ### SQL
 
+- [Postgres Unlogged](sql/postgres-unlogged.md)
 - [Prepare / Execute](sql/prepare-execute.md)
 - [Psql Connect](sql/psql-connect.md)
 - [Terminate Database Connections](sql/terminate_database_connections.md)
