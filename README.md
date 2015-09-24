@@ -30,6 +30,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 ### Go
 
 - [Go iota](go/go-iota.md)
+- [Seeding Golang's Rand](go/seeding-golangs-rand.md)
 
 ### HTML
 
