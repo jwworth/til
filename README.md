@@ -35,6 +35,10 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 
 - [Date Input Tag](html/date-input-tag.md)
 
+### JavaScript
+
+- [Build URLs with Window Location](javascript/build-urls-with-window-location.md)
+
 ### Less
 
 - [Less Help](less/less-help.md)
