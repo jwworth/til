@@ -60,6 +60,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 ### Ruby
 
 - [Case Insensitive Matchers](ruby/case-insensitive-matchers.md)
+- [Fetch Your Environmental Variables](ruby/fetch-your-environmental-variables.md)
 - [Keyword Precedence](ruby/keyword-precedence.md)
 - [Minmax](ruby/minmax.md)
 - [Puts Multiple Lines](ruby/puts-multiple-lines.md)
