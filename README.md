@@ -17,6 +17,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 - [Run Previous Command](bash/run-previous-command.md)
 - [Send Processes to the Background](bash/send-processes-to-the-background.md)
 - [Standard Output to Clipboard Buffer](bash/standard-output-to-clipboard-buffer.md)
+- [Watch That Program](bash/watch-that-program.md)
 
 ### Cucumber
 
