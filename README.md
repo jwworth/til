@@ -64,12 +64,13 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 ### Rails
 
 - [Bypass Basic Auth](rails/bypass-basic-auth.md)
-- [Classify and Constantize](rails/classify-and-constantize.md)
 - [Change Column Null](rails/change-column-null.md)
+- [Classify and Constantize](rails/classify-and-constantize.md)
 - [Find or Create By With Block](rails/find-or-create-by-with-block.md)
 - [Modify Attribute on Set](rails/modify-attribute-on-set.md)
 - [Multipurpose Environmental Variables](rails/multipurpose-environmental-variables.md)
 - [Parameters Filtering](rails/parameters-filtering.md)
+- [Rails destroy](rails/rails-destroy.md)
 - [Redirect a Path](rails/redirect-a-path.md)
 - [Set Default URL Options](rails/set-default-url-options.md)
 - [Validate with Proc](rails/validate-with-proc.md)
