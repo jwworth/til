@@ -13,6 +13,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 - [Git](#git)
 - [Go](#go)
 - [HTML](#html)
+- [Internet](#internet)
 - [JavaScript](#javascript)
 - [Less](#less)
 - [Rails](#rails)
@@ -53,6 +54,10 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 ### HTML
 
 - [Date Input Tag](html/date-input-tag.md)
+
+### Internet
+
+- [Link To Headers in Github READMEs](internet/link-to-headers-in-github-readmes.md)
 
 ### JavaScript
 
