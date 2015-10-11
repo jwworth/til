@@ -30,6 +30,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 - [Printing with lpr](bash/printing-with-lpr.md)
 - [Reverse a String](bash/reverse-a-string.md)
 - [Run Previous Command](bash/run-previous-command.md)
+- [Screen Flashing in OSX](bash/screen-flashing-in-osx.md)
 - [Send Processes to the Background](bash/send-processes-to-the-background.md)
 - [Standard Output to Clipboard Buffer](bash/standard-output-to-clipboard-buffer.md)
 - [Watch That Program](bash/watch-that-program.md)
