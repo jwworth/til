@@ -110,6 +110,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 - [Current Value of a Setting](vim/current-value-of-a-setting.md)
 - [Delete Comments](vim/delete-comments.md)
 - [Edit the Current File Always](vim/edit-the-current-file-always.md)
+- [Explore Buffers with BufExplorer](vim/explore-buffers-with-bufexplorer.md)
 - [Find and Replace Across Files](vim/find-and-replace-across-files.md)
 - [Jump to the First Non-Blank Character](vim/jump-to-the-first-non-blank-character.md)
 - [Sort Alphabetically](vim/sort-alphabetically.md)
