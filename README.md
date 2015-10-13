@@ -77,6 +77,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 - [Multipurpose Environmental Variables](rails/multipurpose-environmental-variables.md)
 - [Parameters Filtering](rails/parameters-filtering.md)
 - [Rails destroy](rails/rails-destroy.md)
+- [Rails restore_attributes](rails/rails-restoreattributes.md)
 - [Redirect a Path](rails/redirect-a-path.md)
 - [Set Default URL Options](rails/set-default-url-options.md)
 - [Validate with Proc](rails/validate-with-proc.md)
