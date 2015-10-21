@@ -44,6 +44,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 
 - [Git Log since](git/git-log-since.md)
 - [Git Snapshot](git/git-snapshot.md)
+- [The Alpha Commit](git/the-alpha-commit.md)
 - [Undo a Git Mistake](git/undo-a-git-mistake.md)
 
 ### Go
