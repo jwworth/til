@@ -85,6 +85,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 
 ### Ruby
 
+- [Accessor Performance Gap](ruby/accessor-performance-gap.md)
 - [Case Insensitive Matchers](ruby/case-insensitive-matchers.md)
 - [Fetch Your Environmental Variables](ruby/fetch-your-environmental-variables.md)
 - [Keyword Precedence](ruby/keyword-precedence.md)
