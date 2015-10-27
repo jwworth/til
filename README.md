@@ -27,6 +27,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 ### Bash
 
 - [Directional Commands](bash/directional-commands.md)
+- [Finding Getters](bash/finding-getters.md)
 - [MD5 File Signatures](bash/md5-file-signatures.md)
 - [Printing with lpr](bash/printing-with-lpr.md)
 - [Reverse a String](bash/reverse-a-string.md)
