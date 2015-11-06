@@ -93,6 +93,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 - [Minmax](ruby/minmax.md)
 - [Puts Multiple Lines](ruby/puts-multiple-lines.md)
 - [Ruby Regex Literal](ruby/ruby-regex-literal.md)
+- [Ruby's Kernel::abort](ruby/rubys-kernel-abort.md)
 - [Skid Keywords](ruby/skid-keywords.md)
 - [Truthy Strings](ruby/truthy-strings.md)
 
