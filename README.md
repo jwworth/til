@@ -114,6 +114,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 - [Call a Vimscript Method in Vim](vim/call-a-vimscript-method-in-vim.md)
 - [Close a File](vim/close-a-file.md)
 - [Current Value of a Setting](vim/current-value-of-a-setting.md)
+- [Delete a Line From Another Line](vim/delete-a-line-from-another-line.md)
 - [Delete Comments](vim/delete-comments.md)
 - [Edit the Current File Always](vim/edit-the-current-file-always.md)
 - [Explore Buffers with BufExplorer](vim/explore-buffers-with-bufexplorer.md)
