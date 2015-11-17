@@ -20,6 +20,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 - [Ruby](#ruby)
 - [Rubygems](#rubygems)
 - [SQL](#sql)
+- [Testing](#testing)
 - [Vim](#vim)
 - [About](#about)
 - [License](#license)
@@ -107,7 +108,10 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 - [Postgres Unlogged](sql/postgres-unlogged.md)
 - [Prepare / Execute](sql/prepare-execute.md)
 - [Psql Connect](sql/psql-connect.md)
-- [Terminate Database Connections](sql/terminate_database_connections.md)
+
+### Testing
+
+- [Testing Edit Forms](testing/tesing-edit-forms.md)
 
 ### Vim
 
