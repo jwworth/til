@@ -111,6 +111,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 
 ### Testing
 
+- [Expect a Case-Insensitive Match](testing/expect-a-caseinsensitive-match.md)
 - [Testing Edit Forms](testing/tesing-edit-forms.md)
 
 ### Vim
@@ -118,13 +119,14 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 - [Call a Vimscript Method in Vim](vim/call-a-vimscript-method-in-vim.md)
 - [Close a File](vim/close-a-file.md)
 - [Current Value of a Setting](vim/current-value-of-a-setting.md)
-- [Delete a Line From Another Line](vim/delete-a-line-from-another-line.md)
 - [Delete Comments](vim/delete-comments.md)
+- [Delete a Line From Another Line](vim/delete-a-line-from-another-line.md)
 - [Edit the Current File Always](vim/edit-the-current-file-always.md)
 - [Explore Buffers with BufExplorer](vim/explore-buffers-with-bufexplorer.md)
 - [Find and Replace Across Files](vim/find-and-replace-across-files.md)
 - [Jump to the First Non-Blank Character](vim/jump-to-the-first-non-blank-character.md)
 - [Sort Alphabetically](vim/sort-alphabetically.md)
+- [Tmux Copy Mode](vim/tmux-copy-mode.md)
 
 ### About
 
