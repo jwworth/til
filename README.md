@@ -125,6 +125,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 - [Explore Buffers with BufExplorer](vim/explore-buffers-with-bufexplorer.md)
 - [Find and Replace Across Files](vim/find-and-replace-across-files.md)
 - [Jump to the First Non-Blank Character](vim/jump-to-the-first-non-blank-character.md)
+- [Override Vim's Filetype](vim/override-vims-filetype.md)
 - [Sort Alphabetically](vim/sort-alphabetically.md)
 - [Tmux Copy Mode](vim/tmux-copy-mode.md)
 
