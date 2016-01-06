@@ -124,6 +124,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 - [Edit the Current File Always](vim/edit-the-current-file-always.md)
 - [Explore Buffers with BufExplorer](vim/explore-buffers-with-bufexplorer.md)
 - [Find and Replace Across Files](vim/find-and-replace-across-files.md)
+- [Increment and Decrement Numbers](vim/increment-and-decrement-numbers.md)
 - [Jump to the First Non-Blank Character](vim/jump-to-the-first-non-blank-character.md)
 - [Override Vim's Filetype](vim/override-vims-filetype.md)
 - [Sort Alphabetically](vim/sort-alphabetically.md)
