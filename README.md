@@ -96,6 +96,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 - [Ruby Regex Literal](ruby/ruby-regex-literal.md)
 - [Ruby's Kernel::abort](ruby/rubys-kernel-abort.md)
 - [Skid Keywords](ruby/skid-keywords.md)
+- [Succeed, Precede, and Surround in Haml](ruby/succeed-precede-and-surround-in-haml.md)
 - [Truthy Strings](ruby/truthy-strings.md)
 
 ### Rubygems
