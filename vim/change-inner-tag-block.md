@@ -1,4 +1,4 @@
-# Change Inner Tag Blocks
+# Change Inner Tag Block
 
 Vim has excellent commands for changing the contents of parentheses (`ci(`), brackets (`ci[`), and squiggly braces (`ci{`) (as well as single quotes, double quotes, backticks, etc.). But what about tags?
 
