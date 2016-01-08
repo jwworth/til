@@ -118,6 +118,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 ### Vim
 
 - [Call a Vimscript Method in Vim](vim/call-a-vimscript-method-in-vim.md)
+- [Change Inner Tag Block](vim/change-inner-tag-block.md)
 - [Close a File](vim/close-a-file.md)
 - [Current Value of a Setting](vim/current-value-of-a-setting.md)
 - [Delete Comments](vim/delete-comments.md)
