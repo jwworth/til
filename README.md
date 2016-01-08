@@ -83,6 +83,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 - [Rails restore_attributes](rails/rails-restoreattributes.md)
 - [Redirect a Path](rails/redirect-a-path.md)
 - [Set Default URL Options](rails/set-default-url-options.md)
+- [Set a Default Scope](rails/set-a-default-scope.md)
 - [Validate with Proc](rails/validate-with-proc.md)
 
 ### Ruby
