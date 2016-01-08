@@ -84,6 +84,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 - [Redirect a Path](rails/redirect-a-path.md)
 - [Set Default URL Options](rails/set-default-url-options.md)
 - [Set a Default Scope](rails/set-a-default-scope.md)
+- [Show Model and Grep with Pry-rails](rails/show-model-and-grep-with-pryrails.md)
 - [Validate with Proc](rails/validate-with-proc.md)
 
 ### Ruby
