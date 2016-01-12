@@ -76,6 +76,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 - [Change Column Null](rails/change-column-null.md)
 - [Classify and Constantize](rails/classify-and-constantize.md)
 - [Find or Create By With Block](rails/find-or-create-by-with-block.md)
+- [Generate a Rails Secret Key](rails/generate-a-rails-secret-key.md)
 - [Modify Attribute on Set](rails/modify-attribute-on-set.md)
 - [Multipurpose Environmental Variables](rails/multipurpose-environmental-variables.md)
 - [Parameters Filtering](rails/parameters-filtering.md)
