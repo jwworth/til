@@ -101,6 +101,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 - [Skid Keywords](ruby/skid-keywords.md)
 - [Succeed, Precede, and Surround in Haml](ruby/succeed-precede-and-surround-in-haml.md)
 - [Truthy Strings](ruby/truthy-strings.md)
+- [Variable Hoisting in Ruby](ruby/variable-hoisting-in-ruby.md)
 
 ### Rubygems
 
