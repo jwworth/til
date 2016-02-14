@@ -114,6 +114,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 - [Postgres Unlogged](sql/postgres-unlogged.md)
 - [Prepare / Execute](sql/prepare-execute.md)
 - [Psql Connect](sql/psql-connect.md)
+- [Query the Size of Postgres Array](sql/query-the-size-of-postgres-array.md)
 
 ### Testing
 
