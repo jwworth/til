@@ -36,6 +36,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 - [Screen Flashing in OSX](bash/screen-flashing-in-osx.md)
 - [Send Processes to the Background](bash/send-processes-to-the-background.md)
 - [Standard Output to Clipboard Buffer](bash/standard-output-to-clipboard-buffer.md)
+- [Start Postgres.app from the Command Line](bash/start-postgresapp-from-the-command-line.md)
 - [Watch That Program](bash/watch-that-program.md)
 
 ### Cucumber
