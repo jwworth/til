@@ -142,8 +142,8 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 
 ### About
 
-I borrowed this idea from
-[thoughtbot/til](https://github.com/thoughtbot/til).
+I borrowed this idea from [thoughtbot/til](https://github.com/thoughtbot/til)
+and [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ### License
 
