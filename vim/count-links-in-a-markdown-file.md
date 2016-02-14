@@ -9,7 +9,7 @@ Today I learned a great way to count the links in a README or link collection. V
 In Vimspeak:
 
 > On every line, find all of the times where '- [' (the beginning of a Markdown
-> bulleted hyperlink), count them, and report the number of matches.
+> bulleted hyperlink) occurs, count them, and report the number of matches.
 
 See `:help subtitute` in Vim for more information.
 
