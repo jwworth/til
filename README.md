@@ -30,8 +30,8 @@ _90 and counting..._
 - [SQL](#sql)
 - [Testing](#testing)
 - [Vim](#vim)
-- [About](#about)
-- [License](#license)
+
+---
 
 ### Bash
 
