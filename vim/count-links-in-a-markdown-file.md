@@ -2,15 +2,15 @@
 
 Today I learned a great way to count the links in a README or link collection. Vim Regex!
 
-```
+```vim
 :%s/- \[//n
 ```
 
 In Vimspeak:
 
-> On every line, find all of the times where '- [' (the beginning of a Markdown
+> On every line, find all of the times where `- [` (the beginning of a Markdown
 > bulleted hyperlink) occurs, count them, and report the number of matches.
 
-See `:help subtitute` in Vim for more information.
+See `:help substitute` in Vim for more information.
 
 h/t Josh Branchaud
