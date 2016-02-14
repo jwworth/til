@@ -110,6 +110,7 @@ Most were published first on [Today I Learned](http://til.hashrocket.com), a pro
 ### SQL
 
 - [Cleanup Postgres Databases](sql/cleanup-postgres-databases.md)
+- [Default to Empty Array in Postgres](sql/default-to-empty-array-in-postgres.md)
 - [Postgres Unlogged](sql/postgres-unlogged.md)
 - [Prepare / Execute](sql/prepare-execute.md)
 - [Psql Connect](sql/psql-connect.md)
