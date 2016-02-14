@@ -27,3 +27,5 @@ hr-til_development=# where cardinality(slack_notified_at_likes_threshold) = 1;
  DIY Grids for Designing UI in Illustrator
 (3 rows)
 ```
+
+[Documentation](http://www.postgresql.org/docs/current/interactive/functions-array.html#ARRAY-FUNCTIONS-TABLE)
