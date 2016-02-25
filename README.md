@@ -53,6 +53,7 @@ _90 and counting..._
 
 ### Git
 
+- [Git Log With Authors](git/git-log-with-authors.md)
 - [Git Log since](git/git-log-since.md)
 - [Git Snapshot](git/git-snapshot.md)
 - [The Alpha Commit](git/the-alpha-commit.md)
