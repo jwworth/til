@@ -10,7 +10,7 @@ concepts I want to remember that don't warrant a post on my
 Most were published first on [Today I Learned](https://til.hashrocket.com), a
 project for [Hashrocket](https://hashrocket.com).
 
-_91 and counting..._
+_92 and counting..._
 
 ---
 
@@ -56,6 +56,7 @@ _91 and counting..._
 - [Git Log With Authors](git/git-log-with-authors.md)
 - [Git Log since](git/git-log-since.md)
 - [Git Snapshot](git/git-snapshot.md)
+- [Delete Remote Git Tags](git/delete-remote-git-tags.md)
 - [The Alpha Commit](git/the-alpha-commit.md)
 - [Undo a Git Mistake](git/undo-a-git-mistake.md)
 
