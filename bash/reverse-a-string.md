@@ -10,6 +10,6 @@ tset
 It also works with files.
 
 ```shell
-$ cat Procfile | rev
+$ Procfile rev
 br.amup/gifnoc C- amup cexe eldnub :bew
 ```
