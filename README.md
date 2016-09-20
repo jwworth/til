@@ -7,10 +7,12 @@ This is a collection of short articles about things I have learned. They are
 concepts I want to remember that don't warrant a post on my
 [blog](http://jakeworth.com).
 
-This repository is mostly retired, in favor of my [Today I
+This repository is mostly a mirror of my [Today I
 Learned](https://til.hashrocket.com) author page:
 
 https://til.hashrocket.com/authors/jakeworth
+
+_90 TILs and counting..._
 
 ---
 
