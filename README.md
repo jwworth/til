@@ -12,7 +12,7 @@ Learned](https://til.hashrocket.com) author page:
 
 https://til.hashrocket.com/authors/jakeworth
 
-_90 TILs and counting..._
+_91 TILs and counting..._
 
 ---
 
@@ -152,6 +152,7 @@ _90 TILs and counting..._
 - [Override Vim's Filetype](vim/override-vims-filetype.md)
 - [Sort Alphabetically](vim/sort-alphabetically.md)
 - [Tmux Copy Mode](vim/tmux-copy-mode.md)
+- [Vim Regex Word Boundaries](vim/vim-regex-word-boundaries.md)
 
 ### About
 
