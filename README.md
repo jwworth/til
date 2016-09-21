@@ -12,7 +12,7 @@ Learned](https://til.hashrocket.com) author page:
 
 https://til.hashrocket.com/authors/jakeworth
 
-_91 TILs and counting..._
+_92 TILs and counting..._
 
 ---
 
@@ -132,6 +132,7 @@ _91 TILs and counting..._
 ### Testing
 
 - [Expect a Case-Insensitive Match](testing/expect-a-caseinsensitive-match.md)
+- [ExtractRSpecLet](testing/extractrspeclet.md)
 - [Testing Edit Forms](testing/tesing-edit-forms.md)
 
 ### Vim
