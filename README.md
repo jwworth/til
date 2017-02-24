@@ -3,14 +3,14 @@
 > Study hard what interests you the most in the most undisciplined, irreverent,
 > and original manner possible. —Richard Feynman
 
-This is a collection of short articles about things I have learned. They are
-concepts I want to remember that don't warrant a post on my
-[blog](http://jakeworth.com).
+This is a collection of short articles about things I have learned. They
+are too short for my [blog](http://jakeworth.com).
 
 This repository is mostly a mirror of my [Today I
-Learned](https://til.hashrocket.com) author page:
+Learned](https://til.hashrocket.com)
+[profile](https://til.hashrocket.com/authors/jakeworth).
 
-https://til.hashrocket.com/authors/jakeworth
+I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 _92 TILs and counting..._
 
@@ -154,11 +154,6 @@ _92 TILs and counting..._
 - [Sort Alphabetically](vim/sort-alphabetically.md)
 - [Tmux Copy Mode](vim/tmux-copy-mode.md)
 - [Vim Regex Word Boundaries](vim/vim-regex-word-boundaries.md)
-
-### About
-
-I borrowed this idea from [thoughtbot/til](https://github.com/thoughtbot/til)
-and [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ### License
 
