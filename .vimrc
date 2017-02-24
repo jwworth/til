@@ -9,4 +9,4 @@ function! CountTils()
   execute '%s/^- \[//n'
 endfunction
 
-nnoremap <leader>c :call CountTils()<cr>
+nnoremap <leader>ct :call CountTils()<cr>
