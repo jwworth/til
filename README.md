@@ -6,11 +6,8 @@
 This is a collection of short articles about things I have learned. They are
 too short for my [blog](https://www.jakeworth.com/).
 
-This repository is mostly a mirror of my [Today I
-Learned](https://til.hashrocket.com)
-[profile](https://til.hashrocket.com/authors/jakeworth).
-
-I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
+For my latest writing, subscribe today to my weekly React newsletter, [React
+Explained](https://www.getrevue.co/profile/react-explained).
 
 _92 TILs and counting..._
 
