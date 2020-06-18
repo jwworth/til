@@ -152,6 +152,15 @@ _92 TILs and counting..._
 - [Tmux Copy Mode](vim/tmux-copy-mode.md)
 - [Vim Regex Word Boundaries](vim/vim-regex-word-boundaries.md)
 
+## About
+
+I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til/),
+who shamelessly stole that idea from
+[thoughtbot/til](https://github.com/thoughtbot/til).
+
+The spirit of this project grew into Hashrocket's [Today I
+Learned](https://til.hashrocket.com).
+
 ### License
 
 This project is released under the [MIT
