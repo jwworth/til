@@ -9,7 +9,7 @@ too short for my [blog](https://www.jakeworth.com/).
 For my latest writing, subscribe today to my weekly React newsletter, [React
 Explained](https://www.getrevue.co/profile/react-explained).
 
-_92 TILs and counting..._
+_93 TILs and counting..._
 
 ---
 
@@ -105,6 +105,7 @@ _92 TILs and counting..._
 - [Keyword Precedence](ruby/keyword-precedence.md)
 - [Minmax](ruby/minmax.md)
 - [Puts Multiple Lines](ruby/puts-multiple-lines.md)
+- [Reset a Gem](ruby/reset-a-gem.md)
 - [Ruby Regex Literal](ruby/ruby-regex-literal.md)
 - [Ruby's Kernel::abort](ruby/rubys-kernel-abort.md)
 - [Skid Keywords](ruby/skid-keywords.md)
