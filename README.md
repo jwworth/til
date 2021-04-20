@@ -1,7 +1,7 @@
 # TIL (Today I Learned)
 
-> Study hard what interests you the most in the most undisciplined, irreverent,
-> and original manner possible. —Richard Feynman
+> "Study hard what interests you the most in the most undisciplined,
+> irreverent, and original manner possible." --Richard Feynman
 
 This is a collection of short articles about things I have learned. They are
 too short for my [blog](https://www.jakeworth.com/).
