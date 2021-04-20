@@ -25,7 +25,6 @@ _92 TILs and counting..._
 - [Less](#less)
 - [Rails](#rails)
 - [Ruby](#ruby)
-- [Rubygems](#rubygems)
 - [SQL](#sql)
 - [Testing](#testing)
 - [Vim](#vim)
@@ -111,11 +110,8 @@ _92 TILs and counting..._
 - [Skid Keywords](ruby/skid-keywords.md)
 - [Succeed, Precede, and Surround in Haml](ruby/succeed-precede-and-surround-in-haml.md)
 - [Truthy Strings](ruby/truthy-strings.md)
-- [Variable Hoisting in Ruby](ruby/variable-hoisting-in-ruby.md)
-
-### Rubygems
-
 - [Upgrade Rubygems](rubygems/upgrade-rubygems.md)
+- [Variable Hoisting in Ruby](ruby/variable-hoisting-in-ruby.md)
 
 ### SQL
 
