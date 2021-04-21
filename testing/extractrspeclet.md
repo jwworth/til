@@ -1,7 +1,5 @@
 # ExtractRSpecLet
 
-*From the Hashrocket Vault...*
-
 Today I got to see the `:ExtractRspecLet` command from the [vim-weefactor](https://github.com/jgdavey/vim-weefactor) plugin. It does what the names suggests, converting this:
 
 ```ruby
