@@ -131,7 +131,7 @@ Learned](https://til.hashrocket.com).
 
 - [Expect a Case-Insensitive Match](testing/expect-a-caseinsensitive-match.md)
 - [ExtractRSpecLet](testing/extractrspeclet.md)
-- [Testing Edit Forms](testing/tesing-edit-forms.md)
+- [Testing Edit Forms](testing/testing-edit-forms.md)
 
 ### Vim
 
