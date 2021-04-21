@@ -19,7 +19,6 @@ Learned](https://til.hashrocket.com).
 
 ### Categories
 
-- [Bash](#bash)
 - [Cucumber](#cucumber)
 - [Git](#git)
 - [Go](#go)
@@ -30,24 +29,11 @@ Learned](https://til.hashrocket.com).
 - [Rails](#rails)
 - [Ruby](#ruby)
 - [SQL](#sql)
+- [Terminal](#terminal)
 - [Testing](#testing)
 - [Vim](#vim)
 
 ---
-
-### Bash
-
-- [Directional Commands](bash/directional-commands.md)
-- [Finding Getters](bash/finding-getters.md)
-- [MD5 File Signatures](bash/md5-file-signatures.md)
-- [Printing with lpr](bash/printing-with-lpr.md)
-- [Reverse a String](bash/reverse-a-string.md)
-- [Run Previous Command](bash/run-previous-command.md)
-- [Screen Flashing in OSX](bash/screen-flashing-in-osx.md)
-- [Send Processes to the Background](bash/send-processes-to-the-background.md)
-- [Standard Output to Clipboard Buffer](bash/standard-output-to-clipboard-buffer.md)
-- [Start Postgres.app from the Command Line](bash/start-postgresapp-from-the-command-line.md)
-- [Watch That Program](bash/watch-that-program.md)
 
 ### Cucumber
 
@@ -126,6 +112,20 @@ Learned](https://til.hashrocket.com).
 - [Prepare / Execute](sql/prepare-execute.md)
 - [Psql Connect](sql/psql-connect.md)
 - [Query the Size of Postgres Array](sql/query-the-size-of-postgres-array.md)
+
+### Terminal
+
+- [Directional Commands](terminal/directional-commands.md)
+- [Finding Getters](terminal/finding-getters.md)
+- [MD5 File Signatures](terminal/md5-file-signatures.md)
+- [Printing with lpr](terminal/printing-with-lpr.md)
+- [Reverse a String](terminal/reverse-a-string.md)
+- [Run Previous Command](terminal/run-previous-command.md)
+- [Screen Flashing in OSX](terminal/screen-flashing-in-osx.md)
+- [Send Processes to the Background](terminal/send-processes-to-the-background.md)
+- [Standard Output to Clipboard Buffer](terminal/standard-output-to-clipboard-buffer.md)
+- [Start Postgres.app from the Command Line](terminal/start-postgresapp-from-the-command-line.md)
+- [Watch That Program](terminal/watch-that-program.md)
 
 ### Testing
 
