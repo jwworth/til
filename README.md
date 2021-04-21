@@ -3,13 +3,17 @@
 > "Study hard what interests you the most in the most undisciplined,
 > irreverent, and original manner possible." --Richard Feynman
 
+_93 TILs and counting..._
+
 This is a collection of short articles about things I have learned. They are
 too short for my [blog](https://www.jakeworth.com/).
 
-For my latest writing, subscribe today to my weekly React newsletter, [React
-Explained](https://www.getrevue.co/profile/react-explained).
+I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til/),
+who shamelessly stole that idea from
+[thoughtbot/til](https://github.com/thoughtbot/til).
 
-_93 TILs and counting..._
+The spirit of this project grew into Hashrocket's [Today I
+Learned](https://til.hashrocket.com).
 
 ---
 
@@ -148,15 +152,6 @@ _93 TILs and counting..._
 - [Sort Alphabetically](vim/sort-alphabetically.md)
 - [Tmux Copy Mode](vim/tmux-copy-mode.md)
 - [Vim Regex Word Boundaries](vim/vim-regex-word-boundaries.md)
-
-## About
-
-I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til/),
-who shamelessly stole that idea from
-[thoughtbot/til](https://github.com/thoughtbot/til).
-
-The spirit of this project grew into Hashrocket's [Today I
-Learned](https://til.hashrocket.com).
 
 ### License
 
