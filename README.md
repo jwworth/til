@@ -19,7 +19,6 @@ Learned](https://til.hashrocket.com).
 
 ### Categories
 
-- [Cucumber](#cucumber)
 - [Git](#git)
 - [Go](#go)
 - [HTML](#html)
@@ -34,10 +33,6 @@ Learned](https://til.hashrocket.com).
 - [Vim](#vim)
 
 ---
-
-### Cucumber
-
-- [Steps Within Steps](cucumber/steps-within-steps.md)
 
 ### Git
 
@@ -99,6 +94,7 @@ Learned](https://til.hashrocket.com).
 - [Ruby Regex Literal](ruby/ruby-regex-literal.md)
 - [Ruby's Kernel::abort](ruby/rubys-kernel-abort.md)
 - [Skid Keywords](ruby/skid-keywords.md)
+- [Steps Within Steps](ruby/steps-within-steps.md)
 - [Succeed, Precede, and Surround in Haml](ruby/succeed-precede-and-surround-in-haml.md)
 - [Truthy Strings](ruby/truthy-strings.md)
 - [Upgrade Rubygems](rubygems/upgrade-rubygems.md)
