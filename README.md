@@ -3,7 +3,7 @@
 > "Study hard what interests you the most in the most undisciplined,
 > irreverent, and original manner possible." --Richard Feynman
 
-_93 TILs and counting..._
+_81 TILs and counting..._
 
 This is a collection of short articles about things I have learned. They are
 too short for my [blog](https://www.jakeworth.com/).
@@ -17,22 +17,11 @@ Learned](https://til.hashrocket.com).
 
 ---
 
-### Categories
+### Browsers
 
-- [Git](#git)
-- [Go](#go)
-- [HTML](#html)
-- [Internet](#internet)
-- [JavaScript](#javascript)
-- [Less](#less)
-- [Rails](#rails)
-- [Ruby](#ruby)
-- [SQL](#sql)
-- [Terminal](#terminal)
-- [Testing](#testing)
-- [Vim](#vim)
-
----
+- [Chrome Flags](browsers/chrome-flags.md)
+- [Date Input Tag](browsers/date-input-tag.md)
+- [Link to Headers in GitHub READMEs](browsers/link-to-headers-in-github-readmes.md)
 
 ### Git
 
@@ -47,15 +36,6 @@ Learned](https://til.hashrocket.com).
 
 - [Go iota](go/go-iota.md)
 - [Seeding Golang's Rand](go/seeding-golangs-rand.md)
-
-### HTML
-
-- [Date Input Tag](html/date-input-tag.md)
-
-### Internet
-
-- [Chrome Flags](internet/chrome-flags.md)
-- [Link To Headers in Github READMEs](internet/link-to-headers-in-github-readmes.md)
 
 ### JavaScript
 
