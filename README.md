@@ -3,7 +3,7 @@
 > "Study hard what interests you the most in the most undisciplined,
 > irreverent, and original manner possible." --Richard Feynman
 
-_82 TILs and counting..._
+_83 TILs and counting..._
 
 This is a collection of short articles about things I have learned. They are
 too short for my [blog](https://www.jakeworth.com/).
@@ -75,6 +75,7 @@ Learned](https://til.hashrocket.com).
 - [Reset a Gem](ruby/reset-a-gem.md)
 - [Ruby Regex Literal](ruby/ruby-regex-literal.md)
 - [Ruby's Kernel::abort](ruby/rubys-kernel-abort.md)
+- [Show Proc Source Location](ruby/show-proc-source-location.md)
 - [Skid Keywords](ruby/skid-keywords.md)
 - [Steps Within Steps](ruby/steps-within-steps.md)
 - [Succeed, Precede, and Surround in Haml](ruby/succeed-precede-and-surround-in-haml.md)
