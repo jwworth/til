@@ -3,7 +3,7 @@
 > "Study hard what interests you the most in the most undisciplined,
 > irreverent, and original manner possible." --Richard Feynman
 
-_83 TILs and counting..._
+_84 TILs and counting..._
 
 This is a collection of short articles about things I have learned. They are
 too short for my [blog](https://www.jakeworth.com/).
@@ -69,6 +69,7 @@ Learned](https://til.hashrocket.com).
 - [Accessor Performance Gap](ruby/accessor-performance-gap.md)
 - [Case Insensitive Matchers](ruby/case-insensitive-matchers.md)
 - [Fetch Your Environmental Variables](ruby/fetch-your-environmental-variables.md)
+- [Hash Equality](ruby/hash-equality.md)
 - [Keyword Precedence](ruby/keyword-precedence.md)
 - [Minmax](ruby/minmax.md)
 - [Puts Multiple Lines](ruby/puts-multiple-lines.md)
