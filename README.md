@@ -3,7 +3,7 @@
 > "Study hard what interests you the most in the most undisciplined,
 > irreverent, and original manner possible." --Richard Feynman
 
-_88 TILs and counting..._
+_89 TILs and counting..._
 
 This is a collection of short articles about things I have learned. They are
 too short for my [blog](https://www.jakeworth.com/).
@@ -24,6 +24,7 @@ Learned](https://til.hashrocket.com).
 - [Date Input Tag](browsers/date-input-tag.md)
 - [Hide Bookmarks Bar in Chrome](browsers/hide-bookmarks-bar-in-chrome.md)
 - [Link to Headers in GitHub READMEs](browsers/link-to-headers-in-github-readmes.md)
+- [Use Display None](browsers/use-display-none.md)
 
 ### Git
 
