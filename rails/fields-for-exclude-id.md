@@ -17,6 +17,6 @@ input. It was getting submitted with the rest of the form and breaking things.
 <% end %>
 ```
 
-This this option, no hidden ID will be inserted into the fields.
+With this option, no hidden ID will be inserted into the fields.
 
 [fields_for](https://guides.rubyonrails.org/form_helpers.html#understanding-parameter-naming-conventions-the-fields-for-helper)
