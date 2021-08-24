@@ -3,7 +3,7 @@
 > "Study hard what interests you the most in the most undisciplined,
 > irreverent, and original manner possible." --Richard Feynman
 
-_91 TILs and counting..._
+_92 TILs and counting..._
 
 This is a collection of short articles about things I have learned. They are
 too short for my [blog](https://www.jakeworth.com/).
@@ -60,6 +60,7 @@ Learned](https://til.hashrocket.com).
 - [Classify and Constantize](rails/classify-and-constantize.md)
 - [Find or Create By With Block](rails/find-or-create-by-with-block.md)
 - [Generate a Rails Secret Key](rails/generate-a-rails-secret-key.md)
+- [Highlighted Routes Searching](rails/highlighted-routes-searching.md)
 - [Modify Attribute on Set](rails/modify-attribute-on-set.md)
 - [Multipurpose Environmental Variables](rails/multipurpose-environmental-variables.md)
 - [Parameters Filtering](rails/parameters-filtering.md)
