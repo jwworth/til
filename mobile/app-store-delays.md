@@ -7,3 +7,8 @@ reflected in the App Store Connect console for minutes, up to hours.
 
 Patience. Instead of rebuilding or rage-clicking, just wait a reasonable amount
 of time for the processes to complete.
+
+To assist, Apple often sends an email when some actions are completed, like
+releasing a build: "Your App - Version 4.7.5 (216) for iOS is now available to
+test". If you're expecting an email and it hasn't arrived, you're likely in
+some queue that will resolve itself.
