@@ -1,0 +1,3 @@
+### XCode Run Hotkey
+
+`⌘ + R`.
