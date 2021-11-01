@@ -3,7 +3,7 @@
 > "Study hard what interests you the most in the most undisciplined,
 > irreverent, and original manner possible." --Richard Feynman
 
-_97 TILs and counting..._
+_98 TILs and counting..._
 
 This is a collection of short articles about things I have learned. They are
 too short for my [blog](https://www.jakeworth.com/).
@@ -32,6 +32,7 @@ Learned](https://til.hashrocket.com).
 
 ### General
 
+- [Jira Actions Menu](general/jira-actions-menu.md)
 - [Turn off Autoformatter for New Features](general/turn-off-autoformatter-for-new-features.md)
 
 ### Git
