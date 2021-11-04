@@ -3,7 +3,7 @@
 > "Study hard what interests you the most in the most undisciplined,
 > irreverent, and original manner possible." --Richard Feynman
 
-_98 TILs and counting..._
+_99 TILs and counting..._
 
 This is a collection of short articles about things I have learned. They are
 too short for my [blog](https://www.jakeworth.com/).
@@ -106,6 +106,7 @@ Learned](https://til.hashrocket.com).
 - [Truthy Strings](ruby/truthy-strings.md)
 - [Upgrade Rubygems](rubygems/upgrade-rubygems.md)
 - [Variable Hoisting in Ruby](ruby/variable-hoisting-in-ruby.md)
+- [group_by with default](ruby/group-by-with-default.md)
 
 ### SQL
 
