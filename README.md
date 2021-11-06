@@ -3,7 +3,7 @@
 > "Study hard what interests you the most in the most undisciplined,
 > irreverent, and original manner possible." --Richard Feynman
 
-_99 TILs and counting..._
+_100 TILs and counting..._
 
 This is a collection of short articles about things I have learned. They are
 too short for my [blog](https://www.jakeworth.com/).
@@ -37,10 +37,11 @@ Learned](https://til.hashrocket.com).
 
 ### Git
 
+- [Delete Remote Git Tags](git/delete-remote-git-tags.md)
+- [Force with Lease](git/force-with-lease.md)
 - [Git Log With Authors](git/git-log-with-authors.md)
 - [Git Log since](git/git-log-since.md)
 - [Git Snapshot](git/git-snapshot.md)
-- [Delete Remote Git Tags](git/delete-remote-git-tags.md)
 - [The Alpha Commit](git/the-alpha-commit.md)
 - [Undo a Git Mistake](git/undo-a-git-mistake.md)
 
