@@ -3,7 +3,7 @@
 > "Study hard what interests you the most in the most undisciplined,
 > irreverent, and original manner possible." --Richard Feynman
 
-_100 TILs and counting..._
+_101 TILs and counting..._
 
 This is a collection of short articles about things I have learned. They are
 too short for my [blog](https://www.jakeworth.com/).
@@ -120,6 +120,7 @@ Learned](https://til.hashrocket.com).
 
 ### Terminal
 
+- [Autojump and Open](terminal/autojump-and-open.md)
 - [Command Line Subshell](terminal/command-line-subshell.md)
 - [Ctags dotfiles](terminal/ctags-dotfiles.md)
 - [Directional Commands](terminal/directional-commands.md)
