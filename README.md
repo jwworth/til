@@ -5,7 +5,7 @@
 
 _101 TILs and counting..._
 
-This is a collection of short articles about things I have learned. They are
+This is a collection of short articles about things I've learned. They are
 too short for my [blog](https://www.jakeworth.com/).
 
 I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til/),
