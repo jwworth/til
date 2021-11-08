@@ -3,7 +3,7 @@
 > "Study hard what interests you the most in the most undisciplined,
 > irreverent, and original manner possible." --Richard Feynman
 
-_101 TILs and counting..._
+_102 TILs and counting..._
 
 This is a collection of short articles about things I've learned. They are
 too short for my [blog](https://www.jakeworth.com/).
@@ -96,6 +96,7 @@ Learned](https://til.hashrocket.com).
 - [Hash Equality](ruby/hash-equality.md)
 - [Keyword Precedence](ruby/keyword-precedence.md)
 - [Minmax](ruby/minmax.md)
+- [Object ID](ruby/object-id.md)
 - [Puts Multiple Lines](ruby/puts-multiple-lines.md)
 - [Reset a Gem](ruby/reset-a-gem.md)
 - [Ruby Regex Literal](ruby/ruby-regex-literal.md)
