@@ -3,7 +3,7 @@
 > "Study hard what interests you the most in the most undisciplined,
 > irreverent, and original manner possible." --Richard Feynman
 
-_103 TILs and counting..._
+_104 TILs and counting..._
 
 This is a collection of short articles about things I've learned. They are
 too short for my [blog](https://www.jakeworth.com/).
@@ -115,6 +115,7 @@ Learned](https://til.hashrocket.com).
 
 - [Cleanup Postgres Databases](sql/cleanup-postgres-databases.md)
 - [Default to Empty Array in Postgres](sql/default-to-empty-array-in-postgres.md)
+- [History of the PostgreSQL Name](sql/history-of-the-postgresql-name.md)
 - [Postgres Unlogged](sql/postgres-unlogged.md)
 - [Prepare / Execute](sql/prepare-execute.md)
 - [Psql Connect](sql/psql-connect.md)
