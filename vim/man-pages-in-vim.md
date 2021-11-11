@@ -1,7 +1,7 @@
 # Man pages in Vim
 
 Hit `K` on a keyword, and Vim looks up the program under the keyword. It's a
-big jarring because Vim appears to shell out from your buffer to show the
+bit jarring because Vim appears to shell out from your buffer to show the
 definition.
 
 To see that man page _in_ Vim, load the `man.vim` plugin from command mode or
