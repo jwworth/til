@@ -3,7 +3,7 @@
 > "Study hard what interests you the most in the most undisciplined,
 > irreverent, and original manner possible." --Richard Feynman
 
-_105 TILs and counting..._
+_106 TILs and counting..._
 
 This is a collection of short articles about things I've learned. They are
 too short for my [blog](https://www.jakeworth.com/).
@@ -132,6 +132,7 @@ Learned](https://til.hashrocket.com).
 - [Printing with lpr](terminal/printing-with-lpr.md)
 - [Reverse a String](terminal/reverse-a-string.md)
 - [Run Previous Command](terminal/run-previous-command.md)
+- [Save Size Change to iTerm Profile](terminal/save-size-changes-to-iterm-profile.md)
 - [Screen Flashing in OSX](terminal/screen-flashing-in-osx.md)
 - [Send Processes to the Background](terminal/send-processes-to-the-background.md)
 - [Standard Output to Clipboard Buffer](terminal/standard-output-to-clipboard-buffer.md)
