@@ -3,7 +3,7 @@
 > "Study hard what interests you the most in the most undisciplined,
 > irreverent, and original manner possible." --Richard Feynman
 
-_107 TILs and counting..._
+_108 TILs and counting..._
 
 This is a collection of short articles about things I've learned. They are
 too short for my [blog](https://www.jakeworth.com/).
@@ -160,6 +160,7 @@ Learned](https://til.hashrocket.com).
 - [Find and Replace Across Files](vim/find-and-replace-across-files.md)
 - [Get help with Pathogen](vim/get-help-with-pathogen.md)
 - [Increment and Decrement Numbers](vim/increment-and-decrement-numbers.md)
+- [Jump to N Percent of a File](vim/jump-to-n-percent-of-a-file.md)
 - [Jump to the First Non-Blank Character](vim/jump-to-the-first-non-blank-character.md)
 - [Man pages in Vim](vim/man-pages-in-vim.md)
 - [Override Vim's Filetype](vim/override-vims-filetype.md)
