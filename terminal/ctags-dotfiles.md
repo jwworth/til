@@ -27,5 +27,6 @@ lifting:
 
 ```
 --exclude=.gem
+--exclude=.git
 --exclude=node_modules
 ```
