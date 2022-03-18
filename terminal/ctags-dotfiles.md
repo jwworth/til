@@ -1,10 +1,11 @@
 # Ctags Dotfiles
 
 Something I took for granted at Hashrocket was the file that configures
-[Ctags](http://ctags.sourceforge.net/). Without configuration, Ctags will
-overindex badly.
+[Exhuberant Ctags](http://ctags.sourceforge.net/). Without configuration,
+recursive tag generation will tag many things and cause problems.  overindex
+badly.
 
-From the docs:
+Here's how you configure Ctags to ignore things:
 
 ```
 /ctags.cnf (on MSDOS, MSWindows only)
@@ -22,8 +23,8 @@ are read. This makes it possible to set up site-wide, personal or project-level
 defaults.
 ```
 
-Here's the head of my root `.ctags`, which even this far in is doing some heavy
-lifting:
+Here's the `head` of my root `.ctags`, which even this far in is excluding a
+lot:
 
 ```
 --exclude=.gem
