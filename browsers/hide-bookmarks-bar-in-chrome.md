@@ -1,4 +1,4 @@
-# Hide Booksmarks Bar in Chrome
+# Hide Bookmarks Bar in Chrome
 
 Do you use bookmarks in Chrome, and also take a lot of browser screenshots? If
 so, read on.
