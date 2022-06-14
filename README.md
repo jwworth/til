@@ -3,7 +3,7 @@
 > "Study hard what interests you the most in the most undisciplined,
 > irreverent, and original manner possible." --Richard Feynman
 
-_108 TILs and counting..._
+_109 TILs and counting..._
 
 This is a collection of short articles about things I've learned. They are
 too short for my [blog](https://www.jakeworth.com/).
@@ -164,6 +164,7 @@ Learned](https://til.hashrocket.com).
 - [Jump to the First Non-Blank Character](vim/jump-to-the-first-non-blank-character.md)
 - [Man pages in Vim](vim/man-pages-in-vim.md)
 - [Override Vim's Filetype](vim/override-vims-filetype.md)
+- [Select First Spell Suggestion](vim/select-first-spell-suggestion.md)
 - [Sort Alphabetically](vim/sort-alphabetically.md)
 - [Tmux Copy Mode](vim/tmux-copy-mode.md)
 - [Vim Regex Word Boundaries](vim/vim-regex-word-boundaries.md)
