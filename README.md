@@ -127,6 +127,7 @@ Learned](https://til.hashrocket.com).
 - [Ctags dotfiles](terminal/ctags-dotfiles.md)
 - [Directional Commands](terminal/directional-commands.md)
 - [Finding Getters](terminal/finding-getters.md)
+- [Force ASDF Reshim](terminal/force-asdf-reshim.md)
 - [MD5 File Signatures](terminal/md5-file-signatures.md)
 - [Printing with lpr](terminal/printing-with-lpr.md)
 - [Reverse a String](terminal/reverse-a-string.md)
