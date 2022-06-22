@@ -32,6 +32,7 @@ Learned](https://til.hashrocket.com).
 
 - [Jira Actions Menu](general/jira-actions-menu.md)
 - [Turn off Autoformatter for New Features](general/turn-off-autoformatter-for-new-features.md)
+- [Validate CircleCI Configuration](general/validate-circleci-configuration-locally.md)
 
 ### Git
 
