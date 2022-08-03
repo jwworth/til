@@ -26,6 +26,7 @@ Learned](https://til.hashrocket.com).
 
 ### CSS
 
+- [Preserve Whitespace in CSS](css/preserve-whitespace-in-css.md)
 - [Semicolon Breaks Everything](css/semicolon-breaks-everything.md)
 
 ### General
