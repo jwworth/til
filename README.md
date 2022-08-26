@@ -147,6 +147,10 @@ Learned](https://til.hashrocket.com).
 - [ExtractRSpecLet](testing/extractrspeclet.md)
 - [Testing Edit Forms](testing/testing-edit-forms.md)
 
+### Tmux
+
+- [Tmux Copy Mode](tmux/tmux-copy-mode.md)
+
 ### Vim
 
 - [Call a Vimscript Method in Vim](vim/call-a-vimscript-method-in-vim.md)
@@ -167,7 +171,6 @@ Learned](https://til.hashrocket.com).
 - [Override Vim's Filetype](vim/override-vims-filetype.md)
 - [Select First Spell Suggestion](vim/select-first-spell-suggestion.md)
 - [Sort Alphabetically](vim/sort-alphabetically.md)
-- [Tmux Copy Mode](vim/tmux-copy-mode.md)
 - [Vim Regex Word Boundaries](vim/vim-regex-word-boundaries.md)
 
 ### License
