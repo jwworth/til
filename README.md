@@ -149,6 +149,7 @@ Learned](https://til.hashrocket.com).
 
 ### Tmux
 
+- [Source Tmux Config](tmux/source-tmux-config.md)
 - [Tmux Copy Mode](tmux/tmux-copy-mode.md)
 
 ### Vim
