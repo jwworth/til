@@ -71,7 +71,7 @@ Learned](https://til.hashrocket.com).
 - [TestFlight downloads latest build](mobile/testflight-downloads-latest-build.md)
 - [Xcode Run Hotkey](mobile/xcode-run-hotkey.md)
 
-### Rails
+### Ruby on Rails
 
 - [Bypass Basic Auth](rails/bypass-basic-auth.md)
 - [Change Column Null](rails/change-column-null.md)
