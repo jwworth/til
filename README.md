@@ -58,6 +58,10 @@ Learned](https://til.hashrocket.com).
 
 - [Less Help](less/less-help.md)
 
+### MacOs
+
+- [Zoom and Scroll in Figma](mac/zoom-and-scroll-in-figma.md)
+
 ### Mobile
 
 - [App Store Delays](mobile/app-store-delays.md)
