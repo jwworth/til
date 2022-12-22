@@ -53,6 +53,7 @@ Learned](https://til.hashrocket.com).
 ### JavaScript
 
 - [Build URLs with Window Location](javascript/build-urls-with-window-location.md)
+- [Build a Sentence from a JavaScript Array](javascript/build-a-sentence-from-a-javascript-array.md)
 
 ### Less
 
