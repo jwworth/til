@@ -72,6 +72,10 @@ Learned](https://til.hashrocket.com).
 - [TestFlight downloads latest build](mobile/testflight-downloads-latest-build.md)
 - [Xcode Run Hotkey](mobile/xcode-run-hotkey.md)
 
+### Ripgrep
+
+- [Ignore Ripgrep Ignore](ripgrep/ignore-ripgrep-ignore.md)
+
 ### Ruby on Rails
 
 - [Bypass Basic Auth](rails/bypass-basic-auth.md)
