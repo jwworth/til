@@ -54,6 +54,7 @@ Learned](https://til.hashrocket.com).
 
 - [Build URLs with Window Location](javascript/build-urls-with-window-location.md)
 - [Build a Sentence from a JavaScript Array](javascript/build-a-sentence-from-a-javascript-array.md)
+- [Sorting Numbers with JavaScript's sort Function](javascript/sorting-numbers-with-javascripts-sort-function.md)
 
 ### Less
 
