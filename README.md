@@ -162,6 +162,10 @@ Learned](https://til.hashrocket.com).
 - [Source Tmux Config](tmux/source-tmux-config.md)
 - [Tmux Copy Mode](tmux/tmux-copy-mode.md)
 
+### TypeScript
+
+- [Either/Or Props in TypeScript](typescript/either-or-props-in-typescript.md)
+
 ### Vim
 
 - [Call a Vimscript Method in Vim](vim/call-a-vimscript-method-in-vim.md)
