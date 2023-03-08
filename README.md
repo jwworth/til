@@ -141,6 +141,7 @@ Learned](https://til.hashrocket.com).
 - [Finding Getters](terminal/finding-getters.md)
 - [Force ASDF Reshim](terminal/force-asdf-reshim.md)
 - [MD5 File Signatures](terminal/md5-file-signatures.md)
+- [Override Autojump's Directory Rankings](terminal/override-autojumps-directory-rankings.md)
 - [Printing with lpr](terminal/printing-with-lpr.md)
 - [Reverse a String](terminal/reverse-a-string.md)
 - [Run Previous Command](terminal/run-previous-command.md)
