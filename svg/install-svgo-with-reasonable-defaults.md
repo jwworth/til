@@ -1,6 +1,6 @@
 # Install SVGO With Reasonable Defaults
 
-A project I'm working on uses [SVGO][https://github.com/svg/svgo] to clean and
+A project I'm working on uses [SVGO](https://github.com/svg/svgo) to clean and
 minify SVG files. There's one problem: SVGO by default removes the `viewBox`
 attribute, which comes embedded in the SVG's I receive and have stylistic
 meaning in my codebase.
