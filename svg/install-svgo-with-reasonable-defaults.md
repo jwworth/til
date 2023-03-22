@@ -29,5 +29,6 @@ Applied like so:
 svgo --config svgo.config.js input.svg --output output.svg
 ```
 
-This reduces my SVG's by about ~25%, without changing their presentation.
-There's an issue on the SVGO repo where this default is discussed a length.
+This reduces my SVG's file size by about ~25%, without changing its
+presentation. There's an issue on the SVGO repo where this default is discussed
+at length.
