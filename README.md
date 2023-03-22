@@ -132,6 +132,10 @@ Learned](https://til.hashrocket.com).
 - [Psql Connect](sql/psql-connect.md)
 - [Query the Size of Postgres Array](sql/query-the-size-of-postgres-array.md)
 
+### SVG
+
+- [Install SVGO With Reasonable Defaults](svg/install-svgo-with-reasonable-defaults.md)
+
 ### Terminal
 
 - [Autojump and Open](terminal/autojump-and-open.md)
