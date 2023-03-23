@@ -26,6 +26,8 @@ Learned](https://til.hashrocket.com).
 
 ### CSS
 
+- [Apply a Conditional Border Without Moving
+  Element](css/apply-a-conditional-border-without-moving-element.md)
 - [Preserve Whitespace in CSS](css/preserve-whitespace-in-css.md)
 - [Semicolon Breaks Everything](css/semicolon-breaks-everything.md)
 
