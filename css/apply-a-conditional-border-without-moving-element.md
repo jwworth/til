@@ -7,7 +7,7 @@ common example is a border around an element that is 'selected'.
 Fix this issue by adding a transparent border around the element and giving it
 color when it's selected. No more jumps.
 
-```css
+```scss
 .element {
   border: 1px solid transparent;
 }
