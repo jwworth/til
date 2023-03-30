@@ -75,6 +75,10 @@ Learned](https://til.hashrocket.com).
 - [TestFlight downloads latest build](mobile/testflight-downloads-latest-build.md)
 - [Xcode Run Hotkey](mobile/xcode-run-hotkey.md)
 
+### React
+
+- [Clear React Router's Location State From the Console](react/clear-react-routers-location-state-from-the-console.md)
+
 ### Ripgrep
 
 - [Ignore Ripgrep Ignore](ripgrep/ignore-ripgrep-ignore.md)
