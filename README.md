@@ -140,7 +140,10 @@ Learned](https://til.hashrocket.com).
 
 ### SVG
 
-- [Install SVGO With Reasonable Defaults](svg/install-svgo-with-reasonable-defaults.md)
+- [Install SVGO With Reasonable
+  Defaults](svg/install-svgo-with-reasonable-defaults.md)
+- [Install SVGO With Reasonable Defaults, Part
+  Two](svg/install-svgo-with-reasonable-defaults-part-two.md)
 
 ### Terminal
 
