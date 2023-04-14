@@ -18,6 +18,7 @@ Learned](https://til.hashrocket.com).
 ### Browsers
 
 - [Chrome Flags](browsers/chrome-flags.md)
+- [Open Every Site in a Chrome Bookmarks Folder With One Click](browsers/open-every-site-in-a-chrome-bookmarks-folder-with-one-click.md)
 - [Chrome SameSite Updates](browsers/chrome-samesite-updates.md)
 - [Date Input Tag](browsers/date-input-tag.md)
 - [Hide Bookmarks Bar in Chrome](browsers/hide-bookmarks-bar-in-chrome.md)
