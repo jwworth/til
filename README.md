@@ -92,6 +92,7 @@ Learned](https://til.hashrocket.com).
 - [Find or Create By With Block](rails/find-or-create-by-with-block.md)
 - [Generate a Rails Secret Key](rails/generate-a-rails-secret-key.md)
 - [Highlighted Routes Searching](rails/highlighted-routes-searching.md)
+- [How Rails Action Name Works](rails/how-rails-action-name-works.md)
 - [Modify Attribute on Set](rails/modify-attribute-on-set.md)
 - [Multipurpose Environmental Variables](rails/multipurpose-environmental-variables.md)
 - [Parameters Filtering](rails/parameters-filtering.md)
