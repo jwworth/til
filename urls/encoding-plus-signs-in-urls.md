@@ -13,4 +13,10 @@ window.open(loginLink)
 
 If you skip this step and try to read the query parameters received by
 'example.com' your email param value may be interpreted as with spaces instead
-of pluses, i.e. `jake testing@example.com`.
+of pluses, i.e. `jake testing@example.com`. Per the [docs][docs]:
+
+> Within the query string, the plus sign is reserved as shorthand notation for
+> a space. Therefore, real plus signs must be encoded. This method was used to
+> make query URIs easier to pass in systems which did not allow spaces.
+
+[docs]: https://www.w3.org/Addressing/URL/4_URI_Recommentations.html#:~:text=Within%20the%20query%20string%2C%20the,plus%20signs%20must%20be%20encoded.
