@@ -17,12 +17,13 @@ Learned](https://til.hashrocket.com).
 
 ### Browsers
 
+- [Change Timezone in Chrome DevTools](browsers/change-timezone-in-chrome-devtools.md)
 - [Chrome Flags](browsers/chrome-flags.md)
-- [Open Every Site in a Chrome Bookmarks Folder With One Click](browsers/open-every-site-in-a-chrome-bookmarks-folder-with-one-click.md)
 - [Chrome SameSite Updates](browsers/chrome-samesite-updates.md)
 - [Date Input Tag](browsers/date-input-tag.md)
 - [Hide Bookmarks Bar in Chrome](browsers/hide-bookmarks-bar-in-chrome.md)
 - [Link to Headers in GitHub READMEs](browsers/link-to-headers-in-github-readmes.md)
+- [Open Every Site in a Chrome Bookmarks Folder With One Click](browsers/open-every-site-in-a-chrome-bookmarks-folder-with-one-click.md)
 - [Use Display None](browsers/use-display-none.md)
 
 ### CSS
