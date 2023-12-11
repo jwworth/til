@@ -182,6 +182,7 @@ Learned](https://til.hashrocket.com).
 ### TypeScript
 
 - [Either/Or Props in TypeScript](typescript/either-or-props-in-typescript.md)
+- [TypeScript Union Type From Array](typescript/typescript-union-type-from-array.md)
 
 ### URLs
 
