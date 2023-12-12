@@ -1,17 +1,11 @@
 # TIL (Today I Learned)
 
-> "Study hard what interests you the most in the most undisciplined,
-> irreverent, and original manner possible." --Richard Feynman
-
 This is a collection of short articles about things I've learned. They are
-too short for my [blog](https://www.jakeworth.com/blog).
+too short for my [blog](https://jakeworth.com/blog).
 
-I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til/),
-who shamelessly stole that idea from
-[thoughtbot/til](https://github.com/thoughtbot/til).
+I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
-The spirit of this project grew into Hashrocket's [Today I
-Learned](https://til.hashrocket.com).
+_131 posts and counting..._
 
 ---
 
