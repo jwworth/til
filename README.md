@@ -152,6 +152,7 @@ Learned](https://til.hashrocket.com).
 
 - [Autojump and Open](terminal/autojump-and-open.md)
 - [Command Line Subshell](terminal/command-line-subshell.md)
+- [Create a File With `cat`](terminal/create-a-file-with-cat.md)
 - [Ctags dotfiles](terminal/ctags-dotfiles.md)
 - [Directional Commands](terminal/directional-commands.md)
 - [Finding Getters](terminal/finding-getters.md)
