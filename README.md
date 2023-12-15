@@ -7,7 +7,7 @@ too short for my [blog](https://jakeworth.com/blog).
 
 I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
-📈 131 posts and counting...
+📈 132 posts and counting...
 
 ---
 
@@ -76,6 +76,7 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ### React
 
 - [Clear React Router's Location State From the Console](react/clear-react-routers-location-state-from-the-console.md)
+- [Link Externally With React Router's Link](react/link-externally-with-react-routers-link.md)
 
 ### Ripgrep
 
