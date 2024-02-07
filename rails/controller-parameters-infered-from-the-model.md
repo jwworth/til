@@ -1,4 +1,4 @@
-# Controller Parameters Inferred from the Model
+# Inferred Controller Parameters
 
 Be careful when making a network request like this to a Rails controller with strong parameters:
 
