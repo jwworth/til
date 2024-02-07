@@ -3,15 +3,11 @@
 Be careful when making a network request like this to a Rails controller with strong parameters:
 
 ```tsx
-const updateEmployee = (id: number, employee: Employee) => {
-  const url = `/employees/${id}`;
-  return axios.put<Employee>(url, employee)
-};
+const updateEmployee = (id: number, employee: Employee) =>
+  axios.put<Employee>(`/employees/${id}`, employee)
 ```
 
 ```ruby
-private
-
 def employee_params
   params.require(:employee).permit(:name)
 end
@@ -35,8 +31,8 @@ PUT https://server.dev/employees/1 { "nested" => "excluded", "employee" => { "na
 Send that payload with the correct key:
 
 ```diff
-- return axios.put<Employee>(url, employee)
-+ return axios.put<Employee>(url, { employee })
+- return axios.put<Employee>(`/employees/${id}`, employee)
++ return axios.put<Employee>(`/employees/${id}`, { employee })
 ```
 
 And Rails follows instructions:
