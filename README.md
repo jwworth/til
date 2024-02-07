@@ -7,7 +7,7 @@ too short for my [blog](https://jakeworth.com/blog).
 
 I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
-📈 132 posts and counting...
+📈 133 posts and counting...
 
 ---
 
@@ -87,6 +87,7 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [Bypass Basic Auth](rails/bypass-basic-auth.md)
 - [Change Column Null](rails/change-column-null.md)
 - [Classify and Constantize](rails/classify-and-constantize.md)
+- [Controller Parameters Inferred from the Model](rails/controller-parameters-infered-from-the-model.md)
 - [Find or Create By With Block](rails/find-or-create-by-with-block.md)
 - [Generate a Rails Secret Key](rails/generate-a-rails-secret-key.md)
 - [Highlighted Routes Searching](rails/highlighted-routes-searching.md)
