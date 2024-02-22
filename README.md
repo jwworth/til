@@ -7,7 +7,7 @@ too short for my [blog](https://jakeworth.com/blog).
 
 I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
-📈 135 posts and counting...
+📈 136 posts and counting...
 
 ---
 
@@ -19,11 +19,16 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [Date Input Tag](browsers/date-input-tag.md)
 - [Filter Network Requests By Status Code in DevTools](browsers/filter-network-requests-by-status-code-in-devtools.md)
 - [Hide Bookmarks Bar in Chrome](browsers/hide-bookmarks-bar-in-chrome.md)
-- [Link to Headers in GitHub READMEs](browsers/link-to-headers-in-github-readmes.md)
 - [Open Every Site in a Chrome Bookmarks Folder With One Click](browsers/open-every-site-in-a-chrome-bookmarks-folder-with-one-click.md)
 - [Use Display None](browsers/use-display-none.md)
 
+### GitHub
+
+- [Ignore Whitespace in a GitHub Pull Request](github/ignore-whitespace-in-a-github-pull-request.md)
+- [Link to Headers in GitHub READMEs](github/link-to-headers-in-github-readmes.md)
+
 ### CSS
+
 
 - [Apply a Conditional Border Without Moving
   Element](css/apply-a-conditional-border-without-moving-element.md)
