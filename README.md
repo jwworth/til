@@ -7,7 +7,7 @@ too short for my [blog](https://jakeworth.com/blog).
 
 I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
-📈 136 posts and counting...
+📈 137 posts and counting...
 
 ---
 
@@ -28,7 +28,6 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [Link to Headers in GitHub READMEs](github/link-to-headers-in-github-readmes.md)
 
 ### CSS
-
 
 - [Apply a Conditional Border Without Moving
   Element](css/apply-a-conditional-border-without-moving-element.md)
@@ -154,6 +153,7 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ### Terminal
 
+- [Append to a Write-Protected File](terminal/append-to-a-write-protected-file.md)
 - [Autojump and Open](terminal/autojump-and-open.md)
 - [Command Line Subshell](terminal/command-line-subshell.md)
 - [Create a File With `cat`](terminal/create-a-file-with-cat.md)
