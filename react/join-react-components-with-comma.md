@@ -12,7 +12,7 @@ Here's one answer, inserting a comma before all but the first list item:
 {items.map((item, index) => (
   <React.Fragment key={item.id}>
     {index > 0 && ', '}
-    <a href={`/items/${item.id}`}>{item.name}</a>{' '}
+    <a href={`/items/${item.id}`}>{item.name}</a>
   </React.Fragment>
 ))}
 ```
