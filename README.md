@@ -7,7 +7,7 @@ too short for my [blog](https://jakeworth.com/blog).
 
 I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
-📈 133 posts and counting...
+📈 135 posts and counting...
 
 ---
 
@@ -17,6 +17,7 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [Chrome Flags](browsers/chrome-flags.md)
 - [Chrome SameSite Updates](browsers/chrome-samesite-updates.md)
 - [Date Input Tag](browsers/date-input-tag.md)
+- [Filter Network Requests By Status Code in DevTools](browsers/filter-network-requests-by-status-code-in-devtools.md)
 - [Hide Bookmarks Bar in Chrome](browsers/hide-bookmarks-bar-in-chrome.md)
 - [Link to Headers in GitHub READMEs](browsers/link-to-headers-in-github-readmes.md)
 - [Open Every Site in a Chrome Bookmarks Folder With One Click](browsers/open-every-site-in-a-chrome-bookmarks-folder-with-one-click.md)
