@@ -7,7 +7,7 @@ too short for my [blog](https://jakeworth.com/blog).
 
 I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
-📈 139 posts and counting...
+📈 140 posts and counting...
 
 ---
 
@@ -91,6 +91,7 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ### Ruby on Rails
 
+- [Assert About Response Body in RSpec Controller Tests](rails/assert-about-response-body-in-rspec-controller-tests.md)
 - [Bypass Basic Auth](rails/bypass-basic-auth.md)
 - [Change Column Null](rails/change-column-null.md)
 - [Classify and Constantize](rails/classify-and-constantize.md)
