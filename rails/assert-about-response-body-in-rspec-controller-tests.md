@@ -9,7 +9,7 @@ controller tests. Just not those asserting about serialized data.
 
 Render those views with `render_views`:
 
-```ruby{4}
+```ruby
 require "rails_helper"
 
 RSpec.describe WidgetsController, type: :controller do
