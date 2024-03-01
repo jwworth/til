@@ -3,6 +3,8 @@
 Be careful when making a network request like this to a Rails controller with strong parameters:
 
 ```tsx
+// const employee = { name: "Jake" };
+
 const updateEmployee = (id: number, employee: Employee) =>
   axios.put<Employee>(`/employees/${id}`, employee)
 ```
