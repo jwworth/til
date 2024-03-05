@@ -7,7 +7,7 @@ too short for my [blog](https://jakeworth.com/blog).
 
 I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
-📈 140 posts and counting...
+📈 141 posts and counting...
 
 ---
 
@@ -84,6 +84,7 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [Conditional Props](react/conditional-props.md)
 - [Join React Components With Comma](react/join-react-components-with-comma.md)
 - [Link Externally With React Router's Link](react/link-externally-with-react-routers-link.md)
+- [Re-render Child Component By Changing Key](react/rerender-child-component-by-changing-key.md)
 
 ### Ripgrep
 
