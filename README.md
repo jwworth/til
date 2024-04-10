@@ -7,7 +7,7 @@ too short for my [blog](https://jakeworth.com/blog).
 
 I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
-📈 141 posts and counting...
+📈 142 posts and counting...
 
 ---
 
@@ -67,6 +67,7 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ### MacOs
 
+- [Understanding Scrollbar Visibility](mac/understanding-scrollbar-visiblity.md)
 - [Zoom and Scroll in Figma](mac/zoom-and-scroll-in-figma.md)
 
 ### Mobile
