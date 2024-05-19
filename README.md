@@ -39,7 +39,7 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [Jira Actions Menu](general/jira-actions-menu.md)
 - [Turn off Autoformatter for New Features](general/turn-off-autoformatter-for-new-features.md)
 - [Validate CircleCI Configuration](general/validate-circleci-configuration-locally.md)
-- [RDS Breaks My Clock](general/rds-breaks-my-clock.md)
+- [RDS Breaks My Radio Clock](general/rds-breaks-my-clock.md)
 
 ### Git
 

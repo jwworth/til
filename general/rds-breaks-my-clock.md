@@ -1,4 +1,4 @@
-# RDS Breaks My Clock
+# RDS Breaks My Radio Clock
 
 When using radio, you might experience a strange phenomenon: the radio clock
 refuses to stay correctly set. I saw this recently on a car stereo that
