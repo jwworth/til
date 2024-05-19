@@ -7,7 +7,7 @@ too short for my [blog](https://jakeworth.com/blog).
 
 I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
-📈 142 posts and counting...
+📈 143 posts and counting...
 
 ---
 
@@ -39,6 +39,7 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [Jira Actions Menu](general/jira-actions-menu.md)
 - [Turn off Autoformatter for New Features](general/turn-off-autoformatter-for-new-features.md)
 - [Validate CircleCI Configuration](general/validate-circleci-configuration-locally.md)
+- [RDS Breaks My Clock](general/rds-breaks-my-clock.md)
 
 ### Git
 
