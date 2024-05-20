@@ -8,8 +8,11 @@ accomplish this while keeping the buttons fairly simple?
 One solution is to set the buttons' value:
 
 ```html
-<input type="button" value="save" />
-<input type="button" value="submit" />
+<form onsubmit={onSubmit} />
+  <!-- Form fields here -->
+  <input type="submit" value="save" />
+  <input type="submit" value="submit" />
+</form>
 ```
 
 Then in the submit handler, we read the value.
