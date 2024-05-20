@@ -7,7 +7,7 @@ too short for my [blog](https://jakeworth.com/blog).
 
 I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
-📈 143 posts and counting...
+📈 144 posts and counting...
 
 ---
 
@@ -55,6 +55,10 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 - [Go iota](go/go-iota.md)
 - [Seeding Golang's Rand](go/seeding-golangs-rand.md)
+
+### HTML
+
+- [Reading a Button's Value on Submit](html/reading-a-buttons-value-on-submit.md)
 
 ### JavaScript
 
