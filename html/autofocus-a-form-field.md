@@ -9,7 +9,7 @@
 No JavaScript required!
 
 A use case could be a new customer form that an employee fills out multiple
-times a day. Buy autofocusing the first name field, you could save that
+times a day. By autofocusing the first name field, you could save that
 employee thousands of clicks.
 
 Carefully consider user experience and accessibility before using this attribute.
