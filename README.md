@@ -7,7 +7,7 @@ too short for my [blog](https://jakeworth.com/blog).
 
 I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
-📈 144 posts and counting...
+📈 145 posts and counting...
 
 ---
 
@@ -59,6 +59,7 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ### HTML
 
 - [Reading a Button's Value on Submit](html/reading-a-buttons-value-on-submit.md)
+- [Autofocus a Form Field](html/autofocus-a-form-field.md)
 
 ### JavaScript
 
