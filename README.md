@@ -7,7 +7,7 @@ too short for my [blog](https://jakeworth.com/blog).
 
 I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
-📈 145 posts and counting...
+📈 146 posts and counting...
 
 ---
 
@@ -183,6 +183,7 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [Standard Output to Clipboard Buffer](terminal/standard-output-to-clipboard-buffer.md)
 - [Start Postgres.app from the Command Line](terminal/start-postgresapp-from-the-command-line.md)
 - [Watch That Program](terminal/watch-that-program.md)
+- [Read Zsh Builtin Manual Pages](terminal/read-zsh-builtin-manual-pages.md)
 
 ### Testing
 
