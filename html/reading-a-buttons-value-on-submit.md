@@ -8,7 +8,7 @@ accomplish this while keeping the buttons fairly simple?
 One solution is to set the buttons' value:
 
 ```html
-<form onsubmit={onSubmit} />
+<form onsubmit={onSubmit}>
   <!-- Form fields here -->
   <input type="submit" value="save" />
   <input type="submit" value="submit" />
