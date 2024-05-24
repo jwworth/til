@@ -7,12 +7,13 @@ too short for my [blog](https://jakeworth.com/blog).
 
 I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
-📈 146 posts and counting...
+📈 147 posts and counting...
 
 ---
 
 ### Browsers
 
+- [Block a URL in Chrome DevTools](browsers/block-a-url-in-chrome-devtools.md)
 - [Change Timezone in Chrome DevTools](browsers/change-timezone-in-chrome-devtools.md)
 - [Chrome Flags](browsers/chrome-flags.md)
 - [Chrome SameSite Updates](browsers/chrome-samesite-updates.md)
