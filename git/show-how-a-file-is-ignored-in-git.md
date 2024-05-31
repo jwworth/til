@@ -24,4 +24,4 @@ $ git check-ignore destroy.sh -v
 /Users/dev/.gitignore:14:*.sh      destroy.sh
 ```
 
-My root `.gitignore` ignores all files ending in `.sh` on line 14. If I want this file, I need to edit or go around that policy.
+My root `.gitignore` ignores all files ending in `.sh` on line 14. If I want this file in version control, I need to edit or go around that policy.
