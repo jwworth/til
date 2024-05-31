@@ -1,4 +1,4 @@
-# Show How A File Is Ignored in Git
+# Show How A File Is Ignored In Git
 
 Today I solved a mystery: a file was being Git-ignored in a new project that didn't have a
 `.gitignore`. Here's me learning this by trying and failing to add it:
