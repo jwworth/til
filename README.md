@@ -7,7 +7,7 @@ too short for my [blog](https://jakeworth.com/blog).
 
 I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
-📈 147 posts and counting...
+📈 148 posts and counting...
 
 ---
 
@@ -49,6 +49,7 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [Git Log With Authors](git/git-log-with-authors.md)
 - [Git Log since](git/git-log-since.md)
 - [Git Snapshot](git/git-snapshot.md)
+- [Show How A File is Ignored in Git](git/show-how-a-file-is-ignored-in-git.md)
 - [The Alpha Commit](git/the-alpha-commit.md)
 - [Undo a Git Mistake](git/undo-a-git-mistake.md)
 
