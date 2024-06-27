@@ -7,7 +7,7 @@ too short for my [blog](https://jakeworth.com/blog).
 
 I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
-📈 148 posts and counting...
+📈 149 posts and counting...
 
 ---
 
@@ -34,6 +34,10 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
   Element](css/apply-a-conditional-border-without-moving-element.md)
 - [Preserve Whitespace in CSS](css/preserve-whitespace-in-css.md)
 - [Semicolon Breaks Everything](css/semicolon-breaks-everything.md)
+
+### Functional Programming
+
+- [Filtering By Identity](functional-programming/filtering-by-identity.md)
 
 ### General
 
