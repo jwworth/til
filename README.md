@@ -7,7 +7,7 @@ too short for my [blog](https://jakeworth.com/blog).
 
 I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
-📈 149 posts and counting...
+📈 150 posts and counting...
 
 ---
 
@@ -48,6 +48,7 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ### Git
 
+- [Apply a Patch in Reverse](git/apply-a-patch-in-reverse.md)
 - [Delete Remote Git Tags](git/delete-remote-git-tags.md)
 - [Force with Lease](git/force-with-lease.md)
 - [Git Log With Authors](git/git-log-with-authors.md)
