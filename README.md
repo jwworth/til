@@ -3,7 +3,7 @@
 _Technical articles; needless words omitted_
 
 This is a collection of short articles about things I've learned. They are
-too short for my [blog](https://jakeworth.com/blog).
+too short for my [blog](https://jakeworth.com).
 
 I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
