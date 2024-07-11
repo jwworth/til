@@ -7,7 +7,7 @@ too short for my [blog](https://jakeworth.com).
 
 I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
-📈 150 posts and counting...
+📈 151 posts and counting...
 
 ---
 
@@ -73,6 +73,7 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [Build URLs with Window Location](javascript/build-urls-with-window-location.md)
 - [Build a Sentence from a JavaScript Array](javascript/build-a-sentence-from-a-javascript-array.md)
 - [Sorting Numbers with JavaScript's sort Function](javascript/sorting-numbers-with-javascripts-sort-function.md)
+- [Load a Dependency in the Node REPL](javascript/load-a-dependency-in-node-repl.md)
 
 ### Less
 
