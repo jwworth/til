@@ -30,8 +30,7 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ### CSS
 
-- [Apply a Conditional Border Without Moving
-  Element](css/apply-a-conditional-border-without-moving-element.md)
+- [Apply a Conditional Border Without Moving Element](css/apply-a-conditional-border-without-moving-element.md)
 - [Preserve Whitespace in CSS](css/preserve-whitespace-in-css.md)
 - [Semicolon Breaks Everything](css/semicolon-breaks-everything.md)
 
@@ -165,10 +164,8 @@ I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ### SVG
 
-- [Install SVGO With Reasonable
-  Defaults](svg/install-svgo-with-reasonable-defaults.md)
-- [Install SVGO With Reasonable Defaults, Part
-  Two](svg/install-svgo-with-reasonable-defaults-part-two.md)
+- [Install SVGO With Reasonable Defaults](svg/install-svgo-with-reasonable-defaults.md)
+- [Install SVGO With Reasonable Defaults, Part Two](svg/install-svgo-with-reasonable-defaults-part-two.md)
 
 ### Terminal
 
