@@ -2,8 +2,7 @@
 
 _Technical articles; needless words omitted_
 
-This is a collection of short articles about things I've learned. They are
-too short for my [blog](https://www.jakeworth.com).
+This is a collection of short articles about things I've learned. Nowadays, I publish these [on my blog](https://www.jakeworth.com/tils/).
 
 I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
