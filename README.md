@@ -6,7 +6,7 @@ This is a collection of short articles about things I've learned. Nowadays, I pu
 
 I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
-📈 151 posts and counting...
+📈 149 posts and counting...
 
 ---
 
