@@ -2,11 +2,10 @@
 
 _Technical articles; needless words omitted_
 
-This is a collection of short articles about things I've learned. Nowadays, I publish these [on my blog](https://www.jakeworth.com/tils/).
+This was a collection of short articles about things I learned. You can find all
+of these and future TILs [on my website](https://www.jakeworth.com/tils/).
 
 I stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
-
-📈 149 posts and counting...
 
 ---
 
